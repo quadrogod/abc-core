@@ -16,5 +16,6 @@
         }
     },
     "require": {
+        "quadrogod/abc-pages": "*"
     }
 }
