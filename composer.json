@@ -1,0 +1,20 @@
+{
+    "name": "quadrogod/abc-core",
+    "description": "Abc Core",
+    "minimum-stability": "stable",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "quadrogod",
+            "email": "quadrogod@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Quadrogod\\Abc\\Core\\": "src/"
+        }
+    },
+    "require": {
+    }
+}
